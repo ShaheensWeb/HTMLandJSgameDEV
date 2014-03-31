@@ -3,4 +3,4 @@ HTMLandJSgameDEV
 
 Will be using this repo to push web based games and will be spending time perfecting each one, my first one being the assassin discovery game. Overall and game dev approach making single player RPG's.
 
-![Alt text](/Desktop/good1.png "Optional title")
+![ScreenShot](http://i.imgur.com/gs1rIqb.png)
