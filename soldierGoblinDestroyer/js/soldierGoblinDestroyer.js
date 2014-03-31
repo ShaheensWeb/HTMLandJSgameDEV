@@ -2,12 +2,9 @@
 http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
 by Matt Hacket 
 
-I am simply remaking the layout of the game, adding a store, monsters to batle
-and making it overall basic single player RPG where you defeat other assassins or spies
-which will have question marks over there head to identify themselves and upon confrontation
-or talkign to them you will begin battling, upon killing them you get silver coin, with silver 
-coin you buy gear and weapons fron the shop. You can grind for the whole set of gear and 
-other aspects will be added individually 
+I am simply remaking the layout of the game, similar to the other push here 
+regarding the Assasisin Discovery game, this will be more of an old style soldier
+and goblin chaser with the same aspects
 
 * Will be treating this as a long term project over the course of the summer 
 for collaboration contact:
