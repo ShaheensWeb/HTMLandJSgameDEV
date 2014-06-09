@@ -4,7 +4,7 @@ HTMLandJSgameDEV
 Will be using this repo to push web based games and will be spending time perfecting each one, my first one being the assassin discovery game. Overall and game dev approach making single player RPG's.
 
 Below is a screenshot of the soldierGoblinDestroyer game!
-<-->Still Under Development<-->
+<--> Will be delayed due to 80hrs a week of combined schooling + government internship <-->
 
 ![ScreenShot](http://i.imgur.com/gs1rIqb.png)
 
